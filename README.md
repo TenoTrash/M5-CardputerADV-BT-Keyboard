@@ -6,6 +6,8 @@ Me volví loco buscando un firmware que convierta a la M5 Cardputer ADV en un te
 Como creo que no existe, lo hice.
 Si usted tiene un firmware que haga todo esto y encima sea USB o Bluetooth, dicho código será digno de que yo lo vanaglorie y diga "Esto si que no es chicharron de laucha"
 
+NO FUNCIONA EN ANDROID - SOLO PARA LINUX
+
 Notas de instalación:
   - Instalar "NimBLE-Arduino" desde el Library Manager de Arduino IDE
   - Board: M5Stack-CardputerS3 (board support oficial de M5Stack)
